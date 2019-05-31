@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<quickstart-graphql>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "dev.ivanhdzd.app.Application",
+            "projectName": "quickstart-graphql",
+            "args": ""
+        }
+    ]
+}
